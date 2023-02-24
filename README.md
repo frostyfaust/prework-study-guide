@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-This study guide contains multiple sections of notes that span different topics such as HTML, CSS, git, and JavaScript. This study guiide allows for the usage of the DevTools console to see the JavaScript that is running in the background of the webpage. the JavaScript will list topics that was learned over the course of the prework modules and selects a topic at random to start studying from.
+This study guide contains multiple sections of notes that span different topics such as HTML, CSS, git, and JavaScript. This study guide allows for the usage of the DevTools console to see the JavaScript that is running in the background of the webpage. The JavaScript will list topics that was learned over the course of the prework modules and selects a topic at random to start studying from.
 
 ## Credits
 
